@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!]("https://github.com/ROCKHOSSAIN/ROCKHOSSAIN/blob/main/banner.jpg")
+<img src="./image/banner.jpg">
 
 <h1>Hi there!!!🥰 I am Md Alif Hossain Rocky</h1>
 <h2>A FrontEnd developer</h2>

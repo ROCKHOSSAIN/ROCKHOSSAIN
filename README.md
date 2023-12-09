@@ -12,3 +12,5 @@
 </p>
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ROCKHOSSAIN/langs)](https://githubtrends.io)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROCKHOSSAIN&theme=shadow_blue&show_icons=true)

@@ -10,3 +10,5 @@
     <img src="https://skillicons.dev/icons?i=git,cs,cpp,css,firebase,html,ai,js,nodejs,nextjs,vite,express" />
   </a>
 </p>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ROCKHOSSAIN/langs)](https://githubtrends.io)

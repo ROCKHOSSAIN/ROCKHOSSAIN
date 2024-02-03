@@ -17,7 +17,7 @@
 
 [blood Link ✔](https://assignment-no-12-ee00e.web.app/)
 
-[library Link ✔](https://library-management-syste-12005.web.app/)
+[library Link ✔](https://effulgent-licorice-b93111.netlify.app/)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ROCKHOSSAIN/langs)](https://githubtrends.io)
 
